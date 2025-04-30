@@ -27,5 +27,5 @@ Given an array nums of integers, return how many of them contain an even number 
 
 ### Constraints:
 
-1 <= nums.length <= 500
-1 <= nums[i] <= 105
+<p>1 <= nums.length <= 500</p>
+<p>1 <= nums[i] <= 105 </p>
