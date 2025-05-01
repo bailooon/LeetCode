@@ -4,7 +4,7 @@ Given an array nums of integers, return how many of them contain an even number 
 
  
 
-### Example 1:
+## Example 1:
 
 <p>Input: nums = [12,345,2,6,7896]</p>
 <p>Output: 2</p>
@@ -17,7 +17,7 @@ Given an array nums of integers, return how many of them contain an even number 
 <p>Therefore only 12 and 7896 contain an even number of digits. </p>
 
 
-### Example 2:
+## Example 2:
 
 <p>Input: nums = [555,901,482,1771]</p>
 <p>Output: 1 </p>
@@ -25,7 +25,7 @@ Given an array nums of integers, return how many of them contain an even number 
 <p>Only 1771 contains an even number of digits.</p>
  
 
-### Constraints:
+## Constraints:
 
 <p>1 <= nums.length <= 500</p>
 <p>1 <= nums[i] <= 105 </p>
